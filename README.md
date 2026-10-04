@@ -47,7 +47,9 @@ Higher mean alpha power was observed during the eyes-closed condition compared w
 ## Repository Contents
 
 - `EEG_Alpha_Power_Analysis_GitHub.ipynb` — complete EEG analysis notebook
-- Results and additional project documentation will be added to this repository.
+- `EEG_Research_Project_Report_1.pdf` — final research project report
+- `results/` — alpha-power comparison, descriptive statistics, and alpha-power difference CSV files
+- `requirements.txt` — Python dependencies required for the project
 
 ## Author
 
